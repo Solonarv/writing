@@ -1,7 +1,7 @@
 I'm not sure what is going on with me.
 
 I like to think I'm a pretty normal guy. I study physics at my home town's university and live in a village about half an hour out of town
-with my mother,who is a high-school teacher and on vacation right now. I don't go out much and spend way too much time on reddit.
+with my mother, who is a high-school teacher and on vacation right now. I don't go out much and spend way too much time on reddit.
 We also have two cats, a 10-year-old shorthair and a long-haired foster kitten who's almost two years old. Anyway, on to the story.
 
 Two days ago, while on my way home from university, I got hit by a speeding car while crossing the street.
@@ -31,4 +31,5 @@ I've thought about what happened, and I've come up with these possible explanati
  - I'm in a simulation, and the biophysics model bugged out on me
  - I'm hallucinating
 
-Can you help me figure out what's going on with me?
+I figured I might as well seek out the help of strangers on the internet, since there are certainly things I haven't thought
+of yet. So can you help me figure out what's going on with me?
