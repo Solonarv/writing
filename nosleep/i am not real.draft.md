@@ -1,5 +1,11 @@
 # I am not real.
 
+-------------------------
+
+BEGIN PART 1
+2015-06-02
+-------------------------
+
 on my way home from uni
 
 cross street
@@ -66,5 +72,41 @@ think about possible causes
 --------------------------------------
 
 END PART 1
-
+2015-06-02
 -------------------------------------- 
+
+BEGIN PART 2
+2015-06-03
+--------------------------------------
+
+WoG resolution: I am in a simulation, and it started glitching.
+
+found out by:
+
+thought a bit about the evidence I had, and possible theories.
+
+Theories:
+ 
+ - My body is actually robotic
+ - I'm in a simulation
+ - I'm dead / a ghost of some sort
+ - I'm hallucinating or otherwise insane
+
+ - Objects pass through my body instead of injuring me. inconsistent with the 'I'm an android' theory.
+ - If it's a hallucination, it's a very consistent one. Consistent enoughthat I can't tell it apart form reality. ~= boltzmann brain hypothesis
+ - I'm dead => I can still affect the world || redditors are also dead
+ - Anything is possible in a simulation
+
+Added evidence:
+ - Went to doc again. Heartbeat, breathing, EEG etc are normal
+ - Hair is cuttable, no idea if it still grows (this is only the 4th day, it *did* gro before)
+
+checks I did:
+ - no super strength (lifted stuff)
+ - can't fly (jumped ~3m down, no spontaneuos flight; also can't lift off)
+ 
+did some invuln. testing:
+
+tried to hit self with hammer, knife, small axe: all passed through my legs, arms, abdomen
+
+jumped out of window, then off roof : ~2.5m, ~6m resp. No injuries or pain (and I'm not good at jumping off things)
